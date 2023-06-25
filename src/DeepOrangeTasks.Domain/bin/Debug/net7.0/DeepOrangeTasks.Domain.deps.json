@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DeepOrangeTasks.Domain/1.0.0": {
+        "runtime": {
+          "DeepOrangeTasks.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeepOrangeTasks.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
