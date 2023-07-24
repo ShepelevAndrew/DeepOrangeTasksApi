@@ -1,0 +1,8 @@
+using DeepOrangeTasks.Application.Common.Services;
+
+namespace DeepOrangeTasks.Infrastructure.Services;
+
+public class DateTimeProvider : IDateTimeProvider
+{
+    public DateTime UtcNow => DateTime.UtcNow;
+}
